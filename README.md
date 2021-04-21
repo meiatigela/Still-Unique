@@ -1,7 +1,7 @@
 # Still-Unique
 
 Digital assets can be unique too.
- 
+
 The uniqueness propriety of certain physical assets is brought to the digital world through non-fungible tokens (NFTs).
 
 > NFTs are tokens that we can use to represent ownership of unique items.
